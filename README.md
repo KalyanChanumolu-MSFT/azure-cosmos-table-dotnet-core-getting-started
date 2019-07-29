@@ -21,4 +21,4 @@ This .net core sample demonstrates how to perform common tasks using Azure Cosmo
 
 (Additional resources or related projects)
 
-- To learn more about the Azure Cosmos DB Table API, see [Introduction to Azure Cosmos DB Table API](table-introduction.md). 
+- To learn more about the Azure Cosmos DB Table API, see [Introduction to Azure Cosmos DB Table API](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/cosmos-db/table-introduction.md). 
